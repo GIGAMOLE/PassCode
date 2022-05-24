@@ -4,9 +4,9 @@ PassCode is the Android app made by using the Jetpack Compose. Created for the t
 
 # Showcase
 
-|Dark Theme|White Theme|
+|Dark Theme|Light Theme|
 |-|-|
-|||
+|![](/media/dark-theme.gif)|![](/media/light-theme.gif)|
 
 # ACs
 

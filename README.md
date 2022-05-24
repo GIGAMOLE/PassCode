@@ -1,3 +1,5 @@
+![](/media/banner.png)
+
 # PassCode
 
 PassCode is the Android app made by using the Jetpack Compose. Created for the test task submission.

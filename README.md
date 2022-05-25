@@ -21,12 +21,6 @@ When the dialog button is pressed (or when the dialog is dismissed) the screen s
 the original state. When the passcode is successfully set - show Snackbar with a message and reset
 the screen into its original state. The back button in Toolbar should finish the Activity.
 
-Screen should look as close as possible to:
-
-![](/media/screen-mockup.png)
-
-# UX
-
 I added some UX improvements:
 
 - Dark mode support
